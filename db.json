@@ -1,10 +1,6 @@
 {
   "users": [
     {
-      "name": "Zachary King",
-      "id": 2
-    },
-    {
       "name": "Pearl Toy",
       "id": 3
     },
@@ -25,6 +21,37 @@
       "id": 10
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "YSY A",
+      "userId": 3
+    },
+    {
+      "userId": 3,
+      "title": "Sleek Rubber Pants",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Rubber Mouse",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "title": "Luxurious Soft Keyboard",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "title": "Intelligent Frozen Pizza",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Small Metal Towels",
+      "id": 15
+    }
+  ],
   "photos": []
 }
